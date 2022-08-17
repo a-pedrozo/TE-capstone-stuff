@@ -1,0 +1,14 @@
+C:\Users\Student\source\repos\pairs\c-sharp-week-3-team-7\PostageCalculator\bin\Debug\netcoreapp3.1\PostageCalculator.exe
+C:\Users\Student\source\repos\pairs\c-sharp-week-3-team-7\PostageCalculator\bin\Debug\netcoreapp3.1\PostageCalculator.deps.json
+C:\Users\Student\source\repos\pairs\c-sharp-week-3-team-7\PostageCalculator\bin\Debug\netcoreapp3.1\PostageCalculator.runtimeconfig.json
+C:\Users\Student\source\repos\pairs\c-sharp-week-3-team-7\PostageCalculator\bin\Debug\netcoreapp3.1\PostageCalculator.runtimeconfig.dev.json
+C:\Users\Student\source\repos\pairs\c-sharp-week-3-team-7\PostageCalculator\bin\Debug\netcoreapp3.1\PostageCalculator.dll
+C:\Users\Student\source\repos\pairs\c-sharp-week-3-team-7\PostageCalculator\bin\Debug\netcoreapp3.1\PostageCalculator.pdb
+C:\Users\Student\source\repos\pairs\c-sharp-week-3-team-7\PostageCalculator\obj\Debug\netcoreapp3.1\PostageCalculator.csproj.AssemblyReference.cache
+C:\Users\Student\source\repos\pairs\c-sharp-week-3-team-7\PostageCalculator\obj\Debug\netcoreapp3.1\PostageCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\source\repos\pairs\c-sharp-week-3-team-7\PostageCalculator\obj\Debug\netcoreapp3.1\PostageCalculator.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\pairs\c-sharp-week-3-team-7\PostageCalculator\obj\Debug\netcoreapp3.1\PostageCalculator.AssemblyInfo.cs
+C:\Users\Student\source\repos\pairs\c-sharp-week-3-team-7\PostageCalculator\obj\Debug\netcoreapp3.1\PostageCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\pairs\c-sharp-week-3-team-7\PostageCalculator\obj\Debug\netcoreapp3.1\PostageCalculator.dll
+C:\Users\Student\source\repos\pairs\c-sharp-week-3-team-7\PostageCalculator\obj\Debug\netcoreapp3.1\PostageCalculator.pdb
+C:\Users\Student\source\repos\pairs\c-sharp-week-3-team-7\PostageCalculator\obj\Debug\netcoreapp3.1\PostageCalculator.genruntimeconfig.cache

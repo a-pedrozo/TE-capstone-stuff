@@ -1,0 +1,14 @@
+C:\Users\Student\source\repos\pairs\c-sharp-week-3-team-7\TollBoothCalculator\bin\Debug\netcoreapp3.1\TollBoothCalculator.exe
+C:\Users\Student\source\repos\pairs\c-sharp-week-3-team-7\TollBoothCalculator\bin\Debug\netcoreapp3.1\TollBoothCalculator.deps.json
+C:\Users\Student\source\repos\pairs\c-sharp-week-3-team-7\TollBoothCalculator\bin\Debug\netcoreapp3.1\TollBoothCalculator.runtimeconfig.json
+C:\Users\Student\source\repos\pairs\c-sharp-week-3-team-7\TollBoothCalculator\bin\Debug\netcoreapp3.1\TollBoothCalculator.runtimeconfig.dev.json
+C:\Users\Student\source\repos\pairs\c-sharp-week-3-team-7\TollBoothCalculator\bin\Debug\netcoreapp3.1\TollBoothCalculator.dll
+C:\Users\Student\source\repos\pairs\c-sharp-week-3-team-7\TollBoothCalculator\bin\Debug\netcoreapp3.1\TollBoothCalculator.pdb
+C:\Users\Student\source\repos\pairs\c-sharp-week-3-team-7\TollBoothCalculator\obj\Debug\netcoreapp3.1\TollBoothCalculator.csproj.AssemblyReference.cache
+C:\Users\Student\source\repos\pairs\c-sharp-week-3-team-7\TollBoothCalculator\obj\Debug\netcoreapp3.1\TollBoothCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\source\repos\pairs\c-sharp-week-3-team-7\TollBoothCalculator\obj\Debug\netcoreapp3.1\TollBoothCalculator.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\pairs\c-sharp-week-3-team-7\TollBoothCalculator\obj\Debug\netcoreapp3.1\TollBoothCalculator.AssemblyInfo.cs
+C:\Users\Student\source\repos\pairs\c-sharp-week-3-team-7\TollBoothCalculator\obj\Debug\netcoreapp3.1\TollBoothCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\pairs\c-sharp-week-3-team-7\TollBoothCalculator\obj\Debug\netcoreapp3.1\TollBoothCalculator.dll
+C:\Users\Student\source\repos\pairs\c-sharp-week-3-team-7\TollBoothCalculator\obj\Debug\netcoreapp3.1\TollBoothCalculator.pdb
+C:\Users\Student\source\repos\pairs\c-sharp-week-3-team-7\TollBoothCalculator\obj\Debug\netcoreapp3.1\TollBoothCalculator.genruntimeconfig.cache

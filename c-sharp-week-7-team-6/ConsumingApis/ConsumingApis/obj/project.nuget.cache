@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "R13ImRAc1H82NdYPfBMLwAGYNhUZq/9yi4EqzfmepPB70jHYKA02SrVYr5QZVJwwXZ66c8RXLJTY8MUuGnq5GQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Student\\source\\repos\\pairs\\c-sharp-week-7-team-6\\ConsumingApis\\ConsumingApis\\ConsumingApis.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Student\\.nuget\\packages\\restsharp\\106.15.0\\restsharp.106.15.0.nupkg.sha512"
+  ],
+  "logs": []
+}

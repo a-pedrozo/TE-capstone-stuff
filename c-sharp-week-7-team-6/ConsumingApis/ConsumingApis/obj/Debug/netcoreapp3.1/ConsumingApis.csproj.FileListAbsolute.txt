@@ -1,0 +1,16 @@
+C:\Users\Student\source\repos\pairs\c-sharp-week-7-team-6\ConsumingApis\ConsumingApis\bin\Debug\netcoreapp3.1\ConsumingApis.exe
+C:\Users\Student\source\repos\pairs\c-sharp-week-7-team-6\ConsumingApis\ConsumingApis\bin\Debug\netcoreapp3.1\ConsumingApis.deps.json
+C:\Users\Student\source\repos\pairs\c-sharp-week-7-team-6\ConsumingApis\ConsumingApis\bin\Debug\netcoreapp3.1\ConsumingApis.runtimeconfig.json
+C:\Users\Student\source\repos\pairs\c-sharp-week-7-team-6\ConsumingApis\ConsumingApis\bin\Debug\netcoreapp3.1\ConsumingApis.runtimeconfig.dev.json
+C:\Users\Student\source\repos\pairs\c-sharp-week-7-team-6\ConsumingApis\ConsumingApis\bin\Debug\netcoreapp3.1\ConsumingApis.dll
+C:\Users\Student\source\repos\pairs\c-sharp-week-7-team-6\ConsumingApis\ConsumingApis\bin\Debug\netcoreapp3.1\ConsumingApis.pdb
+C:\Users\Student\source\repos\pairs\c-sharp-week-7-team-6\ConsumingApis\ConsumingApis\bin\Debug\netcoreapp3.1\RestSharp.dll
+C:\Users\Student\source\repos\pairs\c-sharp-week-7-team-6\ConsumingApis\ConsumingApis\obj\Debug\netcoreapp3.1\ConsumingApis.csproj.AssemblyReference.cache
+C:\Users\Student\source\repos\pairs\c-sharp-week-7-team-6\ConsumingApis\ConsumingApis\obj\Debug\netcoreapp3.1\ConsumingApis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\source\repos\pairs\c-sharp-week-7-team-6\ConsumingApis\ConsumingApis\obj\Debug\netcoreapp3.1\ConsumingApis.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\pairs\c-sharp-week-7-team-6\ConsumingApis\ConsumingApis\obj\Debug\netcoreapp3.1\ConsumingApis.AssemblyInfo.cs
+C:\Users\Student\source\repos\pairs\c-sharp-week-7-team-6\ConsumingApis\ConsumingApis\obj\Debug\netcoreapp3.1\ConsumingApis.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\pairs\c-sharp-week-7-team-6\ConsumingApis\ConsumingApis\obj\Debug\netcoreapp3.1\ConsumingApis.csproj.CopyComplete
+C:\Users\Student\source\repos\pairs\c-sharp-week-7-team-6\ConsumingApis\ConsumingApis\obj\Debug\netcoreapp3.1\ConsumingApis.dll
+C:\Users\Student\source\repos\pairs\c-sharp-week-7-team-6\ConsumingApis\ConsumingApis\obj\Debug\netcoreapp3.1\ConsumingApis.pdb
+C:\Users\Student\source\repos\pairs\c-sharp-week-7-team-6\ConsumingApis\ConsumingApis\obj\Debug\netcoreapp3.1\ConsumingApis.genruntimeconfig.cache
