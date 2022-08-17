@@ -1,0 +1,14 @@
+C:\Users\Student\source\repos\pairs\c-sharp-week-1-team-1\LinearConvert\bin\Debug\netcoreapp3.1\LinearConvert.exe
+C:\Users\Student\source\repos\pairs\c-sharp-week-1-team-1\LinearConvert\bin\Debug\netcoreapp3.1\LinearConvert.deps.json
+C:\Users\Student\source\repos\pairs\c-sharp-week-1-team-1\LinearConvert\bin\Debug\netcoreapp3.1\LinearConvert.runtimeconfig.json
+C:\Users\Student\source\repos\pairs\c-sharp-week-1-team-1\LinearConvert\bin\Debug\netcoreapp3.1\LinearConvert.runtimeconfig.dev.json
+C:\Users\Student\source\repos\pairs\c-sharp-week-1-team-1\LinearConvert\bin\Debug\netcoreapp3.1\LinearConvert.dll
+C:\Users\Student\source\repos\pairs\c-sharp-week-1-team-1\LinearConvert\bin\Debug\netcoreapp3.1\LinearConvert.pdb
+C:\Users\Student\source\repos\pairs\c-sharp-week-1-team-1\LinearConvert\obj\Debug\netcoreapp3.1\LinearConvert.csproj.AssemblyReference.cache
+C:\Users\Student\source\repos\pairs\c-sharp-week-1-team-1\LinearConvert\obj\Debug\netcoreapp3.1\LinearConvert.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\source\repos\pairs\c-sharp-week-1-team-1\LinearConvert\obj\Debug\netcoreapp3.1\LinearConvert.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\pairs\c-sharp-week-1-team-1\LinearConvert\obj\Debug\netcoreapp3.1\LinearConvert.AssemblyInfo.cs
+C:\Users\Student\source\repos\pairs\c-sharp-week-1-team-1\LinearConvert\obj\Debug\netcoreapp3.1\LinearConvert.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\pairs\c-sharp-week-1-team-1\LinearConvert\obj\Debug\netcoreapp3.1\LinearConvert.dll
+C:\Users\Student\source\repos\pairs\c-sharp-week-1-team-1\LinearConvert\obj\Debug\netcoreapp3.1\LinearConvert.pdb
+C:\Users\Student\source\repos\pairs\c-sharp-week-1-team-1\LinearConvert\obj\Debug\netcoreapp3.1\LinearConvert.genruntimeconfig.cache

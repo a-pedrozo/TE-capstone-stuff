@@ -1,0 +1,14 @@
+C:\Users\Student\source\repos\pairs\c-sharp-week-1-team-1\DecimalToBinary\bin\Debug\netcoreapp3.1\DecimalToBinary.exe
+C:\Users\Student\source\repos\pairs\c-sharp-week-1-team-1\DecimalToBinary\bin\Debug\netcoreapp3.1\DecimalToBinary.deps.json
+C:\Users\Student\source\repos\pairs\c-sharp-week-1-team-1\DecimalToBinary\bin\Debug\netcoreapp3.1\DecimalToBinary.runtimeconfig.json
+C:\Users\Student\source\repos\pairs\c-sharp-week-1-team-1\DecimalToBinary\bin\Debug\netcoreapp3.1\DecimalToBinary.runtimeconfig.dev.json
+C:\Users\Student\source\repos\pairs\c-sharp-week-1-team-1\DecimalToBinary\bin\Debug\netcoreapp3.1\DecimalToBinary.dll
+C:\Users\Student\source\repos\pairs\c-sharp-week-1-team-1\DecimalToBinary\bin\Debug\netcoreapp3.1\DecimalToBinary.pdb
+C:\Users\Student\source\repos\pairs\c-sharp-week-1-team-1\DecimalToBinary\obj\Debug\netcoreapp3.1\DecimalToBinary.csproj.AssemblyReference.cache
+C:\Users\Student\source\repos\pairs\c-sharp-week-1-team-1\DecimalToBinary\obj\Debug\netcoreapp3.1\DecimalToBinary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\source\repos\pairs\c-sharp-week-1-team-1\DecimalToBinary\obj\Debug\netcoreapp3.1\DecimalToBinary.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\pairs\c-sharp-week-1-team-1\DecimalToBinary\obj\Debug\netcoreapp3.1\DecimalToBinary.AssemblyInfo.cs
+C:\Users\Student\source\repos\pairs\c-sharp-week-1-team-1\DecimalToBinary\obj\Debug\netcoreapp3.1\DecimalToBinary.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\pairs\c-sharp-week-1-team-1\DecimalToBinary\obj\Debug\netcoreapp3.1\DecimalToBinary.dll
+C:\Users\Student\source\repos\pairs\c-sharp-week-1-team-1\DecimalToBinary\obj\Debug\netcoreapp3.1\DecimalToBinary.pdb
+C:\Users\Student\source\repos\pairs\c-sharp-week-1-team-1\DecimalToBinary\obj\Debug\netcoreapp3.1\DecimalToBinary.genruntimeconfig.cache
